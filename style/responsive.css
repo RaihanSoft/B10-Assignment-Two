@@ -1,0 +1,253 @@
+@media screen and (max-width:576px) {
+
+    /* banner  */
+
+    .banner {
+        padding: 0 0.8rem;
+    }
+
+    .titel h1 {
+        font-size: 45px;
+    }
+
+    .parent {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+    .parent .btn2 {
+        font-size: 0.9rem;
+        padding: 15px 25px;
+
+
+
+    }
+
+    .parent .btn {
+        font-size: 0.9rem;
+        padding: 15px 25px;
+
+
+
+    }
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header-content h1 {
+
+        font-size: 50px;
+    }
+
+    .navs {
+        display: none;
+    }
+
+    .header-content {
+        width: fit-content;
+
+    }
+
+    .header-img {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .header-img img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* box 1 */
+    .box1 {
+        right: 0px;
+        top: 80px;
+        width: 153px;
+        height: 78px;
+
+    }
+
+
+    .ico i {
+        color: white;
+        font-size: 30px;
+        display: block;
+
+
+    }
+
+    .box2 {
+        left: 0;
+
+    }
+
+
+
+    /* main section habits */
+
+    .items {
+        flex-direction: column;
+        align-items: center;
+        margin-left: -90px;
+        background-color: #000000;
+
+
+    }
+
+    .description {
+        margin-left: -20px;
+
+
+    }
+
+    .contents {
+        padding: 0 0.8rem;
+    }
+
+    .habit-main {
+        margin-top: 5px;
+    }
+
+    /* Run container section  */
+
+    .Run-container {
+        flex-direction: column;
+        margin: 850px 0.8rem 0 0.8rem;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    .left-content h1 {
+        font-size: 2rem;
+
+    }
+
+    .left-content .btn {
+        display: block;
+        margin: 2rem auto;
+
+    }
+
+    .left-content p {
+        margin-top: 10px;
+    }
+
+
+    /* BMI Calculator Section  */
+
+
+    .bmi-contents {
+        flex-direction: column;
+        padding: 0 0.8rem;
+    }
+
+    .bmi-titel {
+        padding: 0 0.8rem;
+        margin: 40px auto;
+
+    }
+
+    input {
+        width: 155px;
+
+    }
+
+    #select {
+        width: 155px;
+
+    }
+
+    select {
+        width: 320px;
+
+    }
+
+    .r-content h1 {
+        font-size: 1.4rem;
+    }
+
+    .left-contents h1 {
+        font-size: 1.4rem;
+    }
+
+    .bmi-titel h1 {
+        font-size: 2.4rem;
+    }
+
+    .right-contents>.r-inputs {
+        text-align: center;
+    }
+
+    /* Meet Our Team Section */
+
+
+    .team-container{
+        padding: 0 0.8rem;
+        height: auto;
+    }
+    .members {
+        grid-template-columns: 1fr;
+        height:auto;
+        row-gap: 20px;
+
+    }
+    .team-titel{
+        padding-top: 20px;
+    }
+
+    .team-titel h1{
+        font-size: 30px;
+    }
+    .team-titel p{
+        
+        margin: 30px 0 30px 0;
+    }
+
+    /* membership plan section  */
+
+
+    .plan{
+
+        margin: 0 0.8rem;
+        margin-top: 50px;
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .plan h1 {
+        font-size: 1.8rem;
+    }
+    
+.plan-container{
+    flex-direction: column;
+    align-items: center;
+  gap: 20px;
+  
+}
+
+
+    /* footer  */
+    .footer-container{
+        flex-direction: column;
+        padding: 0 0.8rem;
+    }
+
+    .footer-container .boxs-1 h1{
+        padding-top: 5px;
+    }
+    .footer-container .boxs-2 h2{
+        margin-top: 20px;
+    }
+    .footer-container .boxs-3 h2{
+        margin-top: 20px;
+    }
+    .last-footer-section{
+        padding: 0 0.8rem;
+
+    }
+  
+}
