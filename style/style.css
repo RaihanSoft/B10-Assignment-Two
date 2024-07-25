@@ -714,14 +714,6 @@ h2 span {
 .plan-one h1 {
     color: rgba(255, 255, 255, 0.9);
 }
-
-.plan-one p {
-    text-align: start;
-    padding-left: 75px;
-    margin-top: 5px;
-
-}
-
 .plan-one button {
     padding: 5px 30px;
     color: rgba(194, 111, 10, 0.721);
@@ -735,11 +727,17 @@ h2 span {
 
 }
 
+.plan-one p {
+    text-align: start;
+    padding-left: 75px;
+    margin-top: 5px;
+
+}
+
+
+
 
 /* special section ends here  */
-
-
-
 
 
 
@@ -748,16 +746,16 @@ h2 span {
 
 .footer {
     max-width: 1440px;
-    /* height: 489px; */
+
     margin: 0 auto;
     margin-top: 60px;
-    /* border: 2px solid blue; */
+
     background-color: #1A1A1A;
 }
 
 .footer-container {
     max-width: 1059px;
-    /* border: 2px solid red; */
+
     margin: 0 auto;
     margin-top: 66px;
 
