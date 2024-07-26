@@ -80,13 +80,14 @@ body {
 
 }
 
-.navs p:hover{
+.navs p:hover {
     border-radius: 46px;
     padding: 8px 20px 8px 20px;
     background: rgb(230, 83, 60);
 
 
 }
+
 /* banner section  */
 
 .header {
@@ -202,8 +203,22 @@ body {
     height: 35px;
     background: rgb(230, 83, 60);
     border-radius: 50%;
+    margin-top: 5px;
 }
 
+.box2 .cyc-two i {
+
+
+
+    font-size: 35px;
+    color: rgb(230, 83, 60);
+    border-radius: 50%;
+    background-color: white;
+
+    display: none;
+
+
+}
 
 
 
@@ -366,6 +381,7 @@ body {
     margin-top: 20px;
     background: rgb(230, 83, 60);
     cursor: pointer;
+    border: none;
 }
 
 .right-content {
@@ -667,7 +683,8 @@ h2 span {
     margin: 0 auto;
 
     text-align: center;
-    margin-top: 60px;
+    margin-top: 20px;
+
 
     background: rgba(255, 255, 255, 0.2);
 
@@ -689,7 +706,6 @@ h2 span {
 
     display: flex;
     justify-content: space-between;
-
 }
 
 .plan-one {
@@ -700,7 +716,6 @@ h2 span {
     color: rgba(255, 255, 255, 0.7);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
     background-color: black;
-   
 
 }
 
@@ -714,6 +729,7 @@ h2 span {
 .plan-one h1 {
     color: rgba(255, 255, 255, 0.9);
 }
+
 .plan-one button {
     padding: 5px 30px;
     color: rgba(194, 111, 10, 0.721);
@@ -732,6 +748,14 @@ h2 span {
     padding-left: 75px;
     margin-top: 5px;
 
+}
+
+.plan .titel h1 {
+    background-color: black;
+    padding-bottom: 7px;
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    font-weight: 900;
 }
 
 
@@ -843,5 +867,7 @@ h2 span {
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.3rem;
     font-weight: 400;
+
+
 
 }

@@ -83,7 +83,9 @@
         left: 0;
 
     }
-
+    .box2 .cyc-two i{
+        display: block;
+    }
 
 
     /* main section habits */
@@ -214,9 +216,10 @@
     .plan{
 
         margin: 0 0.8rem;
-        margin-top: 50px;
+        margin-top: 20px;
         height: auto;
         padding-bottom: 20px;
+    
     }
     .plan h1 {
         font-size: 1.8rem;
@@ -226,7 +229,14 @@
     flex-direction: column;
     align-items: center;
   gap: 20px;
+
+
   
+}
+.plan .titel h1{
+    font-size: 30px;
+
+    
 }
 
 
