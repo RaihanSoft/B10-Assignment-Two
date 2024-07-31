@@ -851,12 +851,15 @@ h2 span {
 }
 
 .last-footer-section {
-    height: 60px;
-    max-width: 500px;
-    /* border: 2px solid red; */
+    height: 100px;
+    max-width: 1050px;
     margin: 0 auto;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 60px;  
+
+    /* border: 2px solid red; */
+    border-top: 2px solid white;
+    
 
 
 
@@ -867,6 +870,8 @@ h2 span {
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.3rem;
     font-weight: 400;
+    margin-top: 40px;
+  
 
 
 
