@@ -325,9 +325,10 @@ body {
 }
 
 .habit-container .contents p {
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1rem;
     font-weight: 400;
+    margin-top: 10px;
 
 
 }
@@ -666,7 +667,7 @@ select {
 
     color: white;
     font-weight: bolder;
-    margin-top: 220px;
+    margin-top: 210px;
     margin-left: 20px;
 }
 
@@ -856,7 +857,7 @@ h2 span {
     margin: 0 auto;
     text-align: center;
     margin-top: 60px;  
-    border-top: 2px solid white;
+    border-top: 0.5px solid white;
     
 
 
