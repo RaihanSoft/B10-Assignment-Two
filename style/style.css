@@ -640,23 +640,23 @@ select {
     justify-self: center;
 }
 
-.two {
+.one1 {
     background-image: url(images/trainer2.png);
 }
 
-.three {
+.two2 {
     background-image: url(images/trainer3.png);
 }
 
-.four {
+.three3 {
     background-image: url(images/trainer4.png);
 }
 
-.two {
+.four4 {
     background-image: url(images/trainer5.png);
 }
 
-.two {
+.five5{
     background-image: url(images/trainer6.png);
 }
 
@@ -858,10 +858,6 @@ h2 span {
     text-align: center;
     margin-top: 60px;  
     border-top: 0.5px solid white;
-    
-
-
-
 
 }
 
