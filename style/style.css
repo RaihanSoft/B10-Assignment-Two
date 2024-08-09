@@ -703,7 +703,8 @@ h2 span {
     max-width: 1060px;
     margin: 0 auto;
 
-    margin-top: 20px;
+    margin-top: 10px;
+
 
     display: flex;
     justify-content: space-between;
@@ -717,6 +718,7 @@ h2 span {
     color: rgba(255, 255, 255, 0.7);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
     background-color: black;
+
 
 }
 
