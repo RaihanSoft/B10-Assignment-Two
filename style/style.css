@@ -10,7 +10,7 @@
 
 body {
     font-family: "Inter", sans-serif;
-    background-color: #000000;
+    background-color: #000000;  
 }
 
 
@@ -19,7 +19,11 @@ body {
 .banner {
     max-width: 1440px;
     margin: 0 auto;
-    background-color: #00000072;
+
+    background: linear-gradient(180deg,
+            rgba(19, 19, 19, 0.747) 0%,
+            rgb(30, 30, 30) 50%,
+            rgba(1, 1, 1, 0.719) 100%);
 
 }
 
@@ -656,10 +660,11 @@ select {
     background-image: url(images/trainer5.png);
 }
 
-.five5{
+.five5 {
     background-image: url(images/trainer6.png);
 }
-#six6{
+
+#six6 {
     background-image: url(../style/images/trainer1.png);
 }
 
@@ -859,7 +864,7 @@ h2 span {
     max-width: 1050px;
     margin: 0 auto;
     text-align: center;
-    margin-top: 60px;  
+    margin-top: 60px;
     border-top: 0.5px solid white;
 
 }
@@ -869,7 +874,7 @@ h2 span {
     font-size: 1.3rem;
     font-weight: 400;
     margin-top: 39px;
-  
+
 
 
 
