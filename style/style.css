@@ -659,8 +659,8 @@ select {
 .five5{
     background-image: url(images/trainer6.png);
 }
-.six6{
-    background-image: url(/images/trainer1.png);
+#six{
+    background-image: url(images/trainer1.png);
 }
 
 
